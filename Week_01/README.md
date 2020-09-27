@@ -1,6 +1,6 @@
 学习笔记
 
-### 时间复杂度分析：<img src="/Users/yujinhai/Desktop/GitProject/algorithm017/Week_01/时间复杂度和空间复杂度.jpg" alt="时间复杂度和空间复杂度" style="zoom:50%;" />
+### 时间复杂度分析：<img src="./时间复杂度和空间复杂度.jpg" alt="时间复杂度和空间复杂度" style="zoom:50%;" />
 
 
 
