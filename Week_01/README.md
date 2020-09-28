@@ -31,11 +31,11 @@
 
 
 ### 时间复杂度分析：
-<img src="./时间复杂度和空间复杂度.jpg" alt="时间复杂度和空间复杂度" style="zoom:50%;" />
+<img src="./complexity.jpg" alt="complexity" style="zoom:50%;" />
 
 
 ### 数组，链表，跳表
 
-<img src="./数组，链表，跳表.jpg" alt="数组，链表，跳表" style="zoom:50%;" />
+<img src="./ArrayAndList.jpg" alt="ArrayAndList" style="zoom:50%;" />
 
 
