@@ -14,7 +14,7 @@ int sumNums(int n) {
 
 #### 画出代码执行图
 
-<img src="/Users/yujinhai/Desktop/GitProject/algorithm017/Week_03/image/image-20201014000402707.png" alt="image-20201014000402707" style="zoom:50%;" />
+<img src="./image/image-20201014000402707.png" alt="image-20201014000402707" style="zoom:50%;" />
 
 从上图我们可以看到，当执行到sumNums(3-1)时，代码又重新调用自己，并保存sumNum(3-1)的调用栈。
 
@@ -50,7 +50,7 @@ int sumNums(int n) {
 
 
 
-![image-20201014003651404](/Users/yujinhai/Desktop/GitProject/algorithm017/Week_03/image/image-20201014003651404.png)
+![image-20201014003651404](./image/image-20201014003651404.png)
 
 
 
